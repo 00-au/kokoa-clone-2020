@@ -50,3 +50,6 @@
   margin-bottom: 5px;
   display: block;
 }
+.user-component__subtitle .fa-exclamation-circle {
+  color: tomato;
+}
